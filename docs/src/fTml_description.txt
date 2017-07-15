@@ -1,0 +1,4 @@
+Maj7版 SiON OPM Random FM Tone
+
+ランダムFM音色生成装置
+(SiONのFM音源音色エディタとしては「SiOPM音色エディタ」があります)

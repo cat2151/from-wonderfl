@@ -1,0 +1,6 @@
+演奏開始位置指定版 forked from: SiON MML edit and play
+
+演奏開始位置を指定できます（画面下）
+textBox内に「cde」と書けばcdeが鳴ります
+他のMML自動生成装置の出力をペーストすれば鳴ります
+開発中

@@ -1,0 +1,10 @@
+forked from: SiON MML edit and play
+
+simple example 
+textBox内に「cde」と書けばcdeが鳴ります
+他のSiON用MML自動生成装置の出力をペーストすれば鳴ります
+文字列表示のため
+等幅font表示のため
+文字列入力のため
+文字列入力のため
+checkBox入力のため

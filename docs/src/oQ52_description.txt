@@ -1,0 +1,5 @@
+SiON MML edit and play
+
+simple example 
+textBox内に「cde」と書けばcdeが鳴ります
+他のSiON用MML自動生成装置の出力をペーストすれば鳴ります
